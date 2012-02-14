@@ -30,6 +30,15 @@
     <None Include="..\resourcesextract\toolbar16.bmp">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="fileview_hc.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="toolbar16_24bit.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Toolbar256.bmp">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">

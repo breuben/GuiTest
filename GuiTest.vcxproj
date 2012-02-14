@@ -75,8 +75,11 @@
   <ItemGroup>
     <None Include="..\resourcesextract\toolbar16.bmp" />
     <None Include="cmddefui_2030.bmp" />
+    <None Include="fileview_hc.bmp" />
     <None Include="GuiTest.ico" />
     <None Include="small.ico" />
+    <None Include="toolbar16_24bit.bmp" />
+    <None Include="Toolbar256.bmp" />
     <None Include="tools_new.bmp" />
   </ItemGroup>
   <ItemGroup>
